@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="fukunaga.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Takashi2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fukunaga.h" />
+    <ClInclude Include="takashi2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

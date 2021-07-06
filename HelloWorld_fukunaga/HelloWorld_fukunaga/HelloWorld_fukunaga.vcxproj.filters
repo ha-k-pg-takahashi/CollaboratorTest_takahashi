@@ -21,9 +21,15 @@
     <ClCompile Include="fukunaga.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
+    <ClCompile Include="Takashi2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fukunaga.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="takashi2.h">
       <Filter>ソース ファイル</Filter>
     </ClInclude>
   </ItemGroup>
