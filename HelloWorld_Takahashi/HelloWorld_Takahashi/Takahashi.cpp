@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include"takahashi.h"
 
-void ShowName()
+void Takahashi::ShowName()
 {
 	printf("ûü‹´\n");
 }
