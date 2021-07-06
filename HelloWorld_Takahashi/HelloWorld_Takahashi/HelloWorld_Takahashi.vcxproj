@@ -139,10 +139,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fukunaga.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Takahashi.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="fukunaga.h" />
     <ClInclude Include="takahashi.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
