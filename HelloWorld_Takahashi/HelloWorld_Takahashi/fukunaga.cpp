@@ -5,5 +5,6 @@
 void fukunaga::ShowName()
 {
 	printf("•Ÿ‰i x“l\n");
+	printf("(^_^)ƒm\n");
 }
 
